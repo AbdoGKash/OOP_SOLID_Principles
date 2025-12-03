@@ -1,4 +1,4 @@
-# 🚀 Welcome to the Ahwa App(task for testing) repository!
+# 🚀 Welcome to the OOP_SOLID_Principles repository!
 
 The Smart Ahwa Manager is a Flutter application designed to help a coffee shop owner in Cairo efficiently manage operations. The app allows adding new customer orders with name, drink type, and special instructions; marking orders as completed; displaying a dashboard of pending orders; and generating a daily report of top-selling drinks and total orders served.
 
